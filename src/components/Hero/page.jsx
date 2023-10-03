@@ -7,7 +7,7 @@ const Hero = () => {
                   <div className=''>
                         <h1 className='text-4xl md:text-5xl font-[Sora] font-bold text-slate-900'>Show Them <span className='block'>Don’t Just Tell</span></h1>
                         <p className='font-medium  md:w-[60%] mt-4 text-slate-600/90'>Help your friends and loved ones by creating and sending videos on how to get things done on a website.</p>
-                        <button className='bg-[#120B48] mt-8  py-3 px-5 text-[16px] rounded-[8px] text-white font-semibold'><a href="chrome://extensions/?id=bagknogjjgehngopbkdnfmpgeebjimdo" className='py-3 px-5'>Install HelpMeOut</a></button>
+                        <button className='bg-[#120B48] mt-8  py-3 px-5 text-[16px] rounded-[8px] text-white font-semibold'><a  download href="https://drive.google.com/drive/folders/1cXr27GFvpjTIxPjyt-1ODXFcl5vCY0QC" target="_blank" className='py-3 px-5'>Install HelpMeOut</a></button>
                   </div>
                   <div className=''>
                         <div className="grid relative grid-cols-2 gap-3">

@@ -14,7 +14,7 @@ const Hero = () => {
                               <img className='rounded-lg h-[13rem]' src="/.png" alt="" />
                               <img className='rounded-lg   z-100  row-span-2' src="/img1.png" alt="" />
                               <img className='rounded-lg min-h-[12rem] bg-black' src="/image2.png" alt="" />
-                              <img src="/grid.png" className='absolute -z-20 -top-12 -right-10 h-[14rem]' alt="" />
+                              <img src="/grid.png" className='absolute hidden md:flex -z-20 -top-12 -right-10 h-[14rem]' alt="" />
                         </div>
                   </div>
             </section>

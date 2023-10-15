@@ -50,7 +50,7 @@ export default Home
 
 
 export const loader = async () => {
-      const response = await fetch("http://127.0.0.1:8000/mmm")
+      const response = await fetch("http://127.0.0.1:8000/")
       if (!response.ok) {
             throw json({ message: "Error" }, { status: 400})
       }
